@@ -6,7 +6,7 @@ Click this icon to launch an interactive session for this repository in Binder:
 ## Problem Sessions
 
 __Tutorial 1:__    
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/notebooks/tutorial_1_python_jupyter.ipynb/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pujanbiswas/ME362B_W23.git/HEAD?labpath=notebooks%2Ftutorial_1_python_jupyter.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajsusa/me362b_winter2021/254341993bade8d6c463caa74b530808a6476c88?filepath=notebooks%2Ftutorial_1_python_jupyter.ipynb)
 _Python, Jupyter, Matplotlib, & Numpy_
 
