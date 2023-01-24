@@ -12,6 +12,6 @@ __Tutorial 2:__    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybi
 _User-defined Function, Cantera_
 
 ## Supplemental Examples
-__1. Two-stage ignition:__    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajsusa/me362b_winter2021/74b1d9ca6dfd386d2e92b3d53f6889550f608650?filepath=notebooks%2FZero-dimensional_two-stage_ignition.ipynb) *Zero-dimensional reactor*
+__1. Two-stage ignition:__    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pujanbiswas/ME362B_W23/9920fa61e7aa0bab526e657c32e4c7639c0534fa?urlpath=lab%2Ftree%2Fnotebooks%2FZero-dimensional_two-stage_ignition.ipynb) *Zero-dimensional reactor*
 
-__2. Oscillatory combustion:__    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajsusa/me362b_winter2021/74b1d9ca6dfd386d2e92b3d53f6889550f608650?filepath=notebooks%2FPSR_oscillatory_combustion.ipynb) *Perfectly stirred reactor*
+__2. Oscillatory combustion:__    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pujanbiswas/ME362B_W23/9920fa61e7aa0bab526e657c32e4c7639c0534fa?urlpath=lab%2Ftree%2Fnotebooks%2FPSR_oscillatory_combustion.ipynb) *Perfectly stirred reactor*
