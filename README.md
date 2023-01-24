@@ -5,10 +5,10 @@ Click this icon to launch an interactive session for this repository in Binder:
 
 ## Problem Sessions
 
-__Tutorial 1:__    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pujanbiswas/ME362B_W23/6b05265f0fb36c098f7a98a52309a7a0e4acb49d?urlpath=lab%2Ftree%2Fnotebooks%2Ftutorial_1_python_jupyter.ipynb)
+__Tutorial 1:__    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pujanbiswas/ME362B_W23/9920fa61e7aa0bab526e657c32e4c7639c0534fa?urlpath=lab%2Ftree%2Fnotebooks%2Ftutorial_1_python_jupyter.ipynb)
 _Python, Jupyter, Matplotlib, & Numpy_
 
-__Tutorial 2:__    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pujanbiswas/ME362B_W23/6b05265f0fb36c098f7a98a52309a7a0e4acb49d?urlpath=lab%2Ftree%2Fnotebooks%2Ftutorial_2_cantera_functions.ipynb)
+__Tutorial 2:__    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pujanbiswas/ME362B_W23/9920fa61e7aa0bab526e657c32e4c7639c0534fa?urlpath=lab%2Ftree%2Fnotebooks%2Ftutorial_2_cantera_functions.ipynb)
 _User-defined Function, Cantera_
 
 ## Supplemental Examples
