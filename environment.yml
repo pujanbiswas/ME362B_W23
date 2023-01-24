@@ -1,0 +1,11 @@
+name: me362b
+channels:
+  - cantera
+dependencies:
+  - numpy
+  - cantera
+  - matplotlib
+  - pandas
+  - jupyter
+  - ipykernel
+  
